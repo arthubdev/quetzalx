@@ -218,7 +218,7 @@ drizzle/
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/QuetzalX.git
+git clone https://github.com/arthubdev/quetzalx.git
 
 cd QuetzalX
 ```
