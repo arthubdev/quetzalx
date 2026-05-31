@@ -17,9 +17,6 @@ from '@/components/dashboard/RecentTradesCard.vue'
 import WalletSummaryCard
 from '@/components/dashboard/WalletSummaryCard.vue'
 
-import QuickActionsCard
-from '@/components/dashboard/QuickActionsCard.vue'
-
 import {
   useDashboard,
 } from '@/composables/useDashboard'
