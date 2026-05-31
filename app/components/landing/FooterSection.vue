@@ -47,29 +47,6 @@
         </p>
       </div>
 
-      <div
-        class="
-          flex
-          gap-8
-
-          text-sm
-
-          text-slate-400
-        "
-      >
-        <a href="#">
-          Dashboard
-        </a>
-
-        <a href="#">
-          Metrics
-        </a>
-
-        <a href="#">
-          Trades
-        </a>
-      </div>
-
       <p
         class="
           text-sm
