@@ -1,0 +1,35 @@
+@import './variables.css';
+
+html,
+body,
+#__nuxt {
+  min-height: 100%;
+}
+
+body {
+  background:
+    var(--qx-background);
+
+  color:
+    var(--qx-text);
+
+  font-family:
+    Inter,
+    sans-serif;
+
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
+
+body {
+  cursor: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}

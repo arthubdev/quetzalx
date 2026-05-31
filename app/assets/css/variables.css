@@ -1,0 +1,58 @@
+:root {
+  /* Brand */
+
+  --qx-primary: #00C389;
+  --qx-primary-light: #13E3A6;
+
+  --qx-danger: #D92C54;
+
+  --qx-warning: #F5B942;
+
+  --qx-success: #13E3A6;
+
+  /* Radius */
+
+  --qx-radius-sm: 8px;
+
+  --qx-radius-md: 12px;
+
+  --qx-radius-lg: 16px;
+
+  --qx-radius-xl: 24px;
+}
+
+/* ========================= */
+/* DARK MODE */
+/* ========================= */
+
+.dark {
+  --qx-background: #070B14;
+
+  --qx-surface: #0F172A;
+
+  --qx-surface-2: #111827;
+
+  --qx-border: #1E293B;
+
+  --qx-text: #F8FAFC;
+
+  --qx-muted: #94A3B8;
+}
+
+/* ========================= */
+/* LIGHT MODE */
+/* ========================= */
+
+.light {
+  --qx-background: #F8FAFC;
+
+  --qx-surface: #FFFFFF;
+
+  --qx-surface-2: #F1F5F9;
+
+  --qx-border: #E2E8F0;
+
+  --qx-text: #0F172A;
+
+  --qx-muted: #64748B;
+}
