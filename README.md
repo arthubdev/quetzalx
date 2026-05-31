@@ -61,7 +61,7 @@ Desarrollador del proyecto QuetzalX, una plataforma de arbitraje de criptomoneda
 
 El objetivo principal del proyecto es integrar monitoreo en tiempo real, análisis de oportunidades y gestión de activos dentro de una arquitectura moderna basada en Nuxt 3, TypeScript y PostgreSQL.
 
----
+----
 
 # 📖 Descripción
 
